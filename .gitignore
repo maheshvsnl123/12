@@ -1,0 +1,10 @@
+bin/
+obj/
+bin/*
+obj/*
+sdk/
+b~*.adb
+b~*.ads
+b~*.ali
+*.o
+
